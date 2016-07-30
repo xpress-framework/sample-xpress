@@ -13,3 +13,4 @@ $task = new Xpress_Post_Type(
 
 $task->add_capabilities( 'administrator' );
 $task->taxonomy( 'label' );
+$task->custom_field_group( 'tasks' );
