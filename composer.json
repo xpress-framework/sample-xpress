@@ -1,0 +1,22 @@
+{
+	"name": "xpress-framework/sample-xpress",
+	"type": "wordpress-plugin",
+	"license": "EULA",
+	"description": "WordPress plugin for sampling the implementation of Core-Xpress Framework",
+	"homepage": "http://xpress-framework.github.io/",
+	"authors": [
+		{
+			"name": "Juan Manuel Arias",
+			"email": "trasgofurioso@gmail.com"
+		}
+	],
+	"keywords": [
+		"wordpress", "xpress", "framework"
+	],
+	"support": {
+		"issues": "https://github.com/xpress-framework/sample-xpress/issues"
+	},
+	"require": {
+	},
+	"minimum-stability": "dev"
+}
